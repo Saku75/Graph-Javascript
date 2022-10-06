@@ -25,21 +25,21 @@ Se graph-javascript.drawio.png
 
 **4. Pseudo Kode**
 
-function med parameter (display element, number array)
+    function med parameter (display element, number array)
 
-    Lav et graf element
-    style graf element
-    tilføj graf element til display element
+        Lav et graf element
+        style graf element
+        tilføj graf element til display element
 
-    find max værdi af array
+        find max værdi af array
 
-    loop igennem input array
+        loop igennem input array
 
-    	lav et pind element
-    	style pind element og sæt højden ud fra værdien og max værdien
-    	tilføj ping til graf element
+            lav et pind element
+            style pind element og sæt højden ud fra værdien og max værdien
+            tilføj ping til graf element
 
-    	hvis graf på skærmen
+        hvis graf på skærmen
 
 **5. Javascript**
 
