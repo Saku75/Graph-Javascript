@@ -21,6 +21,8 @@ At kunne lave et graf some kan indtage en array og dynamisk scalere op og ned.
 
 **3. Flowchart**
 
+Se graph-javascript.drawio.png
+
 **4. Pseudo Kode**
 
 function med parameter (display element, number array)
